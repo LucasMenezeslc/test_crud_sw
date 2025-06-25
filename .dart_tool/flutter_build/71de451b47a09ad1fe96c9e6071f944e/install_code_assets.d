@@ -1,0 +1,1 @@
+ /Users/lucasmenezes/Documents/App\ Projects/OTHERS/test_crud_sw/.dart_tool/flutter_build/71de451b47a09ad1fe96c9e6071f944e/native_assets.json: 
